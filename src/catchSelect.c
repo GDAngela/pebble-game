@@ -46,7 +46,7 @@ static void menu_draw_row_callback(GContext* ctx, const Layer *cell_layer, MenuI
           break;
         case 2: 
           menu_cell_basic_draw(ctx, cell_layer, "Oxygen","keeps me alive!", s_menu_bitmap3);
-          break;
+             break;
       }
     break;
   }
